@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 Attribute,Price,Space,Camera,Looks
 M1,250,16,12,5
 M2,200,16,8,3
 M3,300,32,16,4
 M4,275,32,8,4
-=======
-Attribute,Price,Space,Camera,Looks
-M1,250,16,12,5
-M2,200,16,8,3
-M3,300,32,16,4
-M4,275,32,8,4
->>>>>>> d38542a90e5b6c1d821b7300123f9243abed48a9
 M5,225,16,16,2
